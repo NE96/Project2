@@ -16,7 +16,7 @@
 	?>
 </h1>
 
-<?php include 'list.php';?>
+<?php include 'todos/list.php';?>
 
 
 <div>
